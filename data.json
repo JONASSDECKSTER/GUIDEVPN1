@@ -1,0 +1,136 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "unity",
+        "InterAd": "unity",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "max_banner": "6db1491f2e21970c",
+        "max_inter": "812b82d9e0c7cb7f",
+        "unityTest": true,
+        "unityGameID": "1734877",
+        "unityBanner": "banner",
+        "unityInter": "Android_Interstitial",
+        "intersitial_click_activites": 1,
+        "intersitial_click_list": 1
+
+    },
+
+    "Update": {
+        "show": true,
+        "version": 2,
+        "title": "Update our app",
+        "description": "There is a new app available to download. Please update",
+        "force": false,
+        "link": "http://google.com"
+    },
+
+    "Data": {
+        "show_rate": true,
+        "main_image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+        "policy": "https://google.com",
+        "slider": [{
+                "title": "SLIDER 1",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins. exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money. "
+            }, {
+                "title": "SLIDER 2",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "text": "The Nicoo application is like others you will discover for Mobile Legends. It permits players to hunt out skins for the sport's characters and assists you with kinetic ascribes at intervals the sport. Ordinarily, players need to re-energize jewels to shop for garments, weapons, and numerous things. With Nicoo application, you may open all the free hearth Garena skins in just one tick and appreciate a high notch insight."
+            }, {
+                "title": "SLIDER 3",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "text": "Follow with America the Directions to transfer Nicoo free hearth Apk follow the event below to transfer nicoo Apk application on your android gadgets. terribly very first thing, attend real information processing system of nicoo application. eventually click on the Nicoo application transfer button. guarantee your unapproachable consents square measure allowable. you may empower it from android settings > Security tab. what's additional, eventually the applications area unit downloaded "
+            }
+        ],
+        "items_data": [{
+                "title": "STEP1",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "data": [{
+                        "title": "test1",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins. exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money. "
+                    }, {
+                        "title": "test2",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "The Nicoo application is like others you will discover for Mobile Legends. It permits players to hunt out skins for the sport's characters and assists you with kinetic ascribes at intervals the sport. Ordinarily, players need to re-energize jewels to shop for garments, weapons, and numerous things. With Nicoo application, you may open all the free hearth Garena skins in just one tick and appreciate a high notch insight."
+                    }, {
+                        "title": "test3",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Follow with America the Directions to transfer Nicoo free hearth Apk follow the event below to transfer nicoo Apk application on your android gadgets. terribly very first thing, attend real information processing system of nicoo application. eventually click on the Nicoo application transfer button. guarantee your unapproachable consents square measure allowable. you may empower it from android settings > Security tab. what's additional, eventually the applications area unit downloaded "
+                    }
+                ]
+
+            }, {
+                "title": "STEP2",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "data": [{
+                        "title": "test11",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins. exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money. "
+                    }, {
+                        "title": "test22",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "The Nicoo application is like others you will discover for Mobile Legends. It permits players to hunt out skins for the sport's characters and assists you with kinetic ascribes at intervals the sport. Ordinarily, players need to re-energize jewels to shop for garments, weapons, and numerous things. With Nicoo application, you may open all the free hearth Garena skins in just one tick and appreciate a high notch insight."
+                    }, {
+                        "title": "test33",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Follow with America the Directions to transfer Nicoo free hearth Apk follow the event below to transfer nicoo Apk application on your android gadgets. terribly very first thing, attend real information processing system of nicoo application. eventually click on the Nicoo application transfer button. guarantee your unapproachable consents square measure allowable. you may empower it from android settings > Security tab. what's additional, eventually the applications area unit downloaded "
+                    }
+                ]
+            }, {
+                "title": "STEP3",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "data": [{
+                        "title": "test1",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins. exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money. "
+                    }, {
+                        "title": "test2",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "The Nicoo application is like others you will discover for Mobile Legends. It permits players to hunt out skins for the sport's characters and assists you with kinetic ascribes at intervals the sport. Ordinarily, players need to re-energize jewels to shop for garments, weapons, and numerous things. With Nicoo application, you may open all the free hearth Garena skins in just one tick and appreciate a high notch insight."
+                    }, {
+                        "title": "test3",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Follow with America the Directions to transfer Nicoo free hearth Apk follow the event below to transfer nicoo Apk application on your android gadgets. terribly very first thing, attend real information processing system of nicoo application. eventually click on the Nicoo application transfer button. guarantee your unapproachable consents square measure allowable. you may empower it from android settings > Security tab. what's additional, eventually the applications area unit downloaded "
+                    }
+                ]
+            }, {
+                "title": "STEP4",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "data": [{
+                        "title": "test1",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins. exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money. "
+                    }, {
+                        "title": "test2",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "The Nicoo application is like others you will discover for Mobile Legends. It permits players to hunt out skins for the sport's characters and assists you with kinetic ascribes at intervals the sport. Ordinarily, players need to re-energize jewels to shop for garments, weapons, and numerous things. With Nicoo application, you may open all the free hearth Garena skins in just one tick and appreciate a high notch insight."
+                    }, {
+                        "title": "test3",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Follow with America the Directions to transfer Nicoo free hearth Apk follow the event below to transfer nicoo Apk application on your android gadgets. terribly very first thing, attend real information processing system of nicoo application. eventually click on the Nicoo application transfer button. guarantee your unapproachable consents square measure allowable. you may empower it from android settings > Security tab. what's additional, eventually the applications area unit downloaded "
+                    }
+                ]
+            }, {
+                "title": "STEP5",
+                "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                "data": [{
+                        "title": "test1",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins. exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money. "
+                    }, {
+                        "title": "test2",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "The Nicoo application is like others you will discover for Mobile Legends. It permits players to hunt out skins for the sport's characters and assists you with kinetic ascribes at intervals the sport. Ordinarily, players need to re-energize jewels to shop for garments, weapons, and numerous things. With Nicoo application, you may open all the free hearth Garena skins in just one tick and appreciate a high notch insight."
+                    }, {
+                        "title": "test3",
+                        "image": "https://wowroms-photos.com/emulators-roms-logo/54/4598/111-111/kf2k5uni.jpg",
+                        "text": "Follow with America the Directions to transfer Nicoo free hearth Apk follow the event below to transfer nicoo Apk application on your android gadgets. terribly very first thing, attend real information processing system of nicoo application. eventually click on the Nicoo application transfer button. guarantee your unapproachable consents square measure allowable. you may empower it from android settings > Security tab. what's additional, eventually the applications area unit downloaded "
+                    }
+
+                ]
+            }
+        ]
+    }
+}
