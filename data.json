@@ -1,12 +1,12 @@
 {
     "Ads": {
-        "show_ads": false,
-        "bannerAd": "unity",
-        "InterAd": "unity",
+        "show_ads": true,
+        "bannerAd": "max",
+        "InterAd": "max",
         "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "max_banner": "6db1491f2e21970c",
-        "max_inter": "812b82d9e0c7cb7f",
+        "max_banner": "6155435f7ec04c17",
+        "max_inter": "cb1937f70cb1e693",
         "unityTest": true,
         "unityGameID": "1734877",
         "unityBanner": "banner",
